@@ -5,10 +5,11 @@
   <img width="49%" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent" alt="Caroline Barbosa github stats" /> 
 </div>
 
+<div align="right">
+  <img width="37%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioprezottoo&layout=compact&hide_border=false&title_color=cfd4cf&text_color=c9d1d9&bg_color=1e1f1e" />
+</div>
 
-![Dmxavier GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxavier00&layout=compact&theme=transparent)
 
 ## Tecnologias que utilizo no meu dia
 
