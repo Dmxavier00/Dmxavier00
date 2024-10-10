@@ -5,11 +5,16 @@
   <img width="49%" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent" alt="Caroline Barbosa github stats" /> 
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxavier00&layout=compact&theme=transparent" /> 
 </div>
 
 
+<br>
+<br>
 <br>
 <br>
 
