@@ -1,16 +1,11 @@
 ### Olá! Eu sou Davi Xavier
 
 
-<div align="left">  
-  <img width="49%" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent" alt="Caroline Barbosa github stats" /> 
+<div align="center">  
+  <img  height="150 src="https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent" alt="Caroline Barbosa github stats" /> 
+  <img  height="150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxavier00&layout=compact&theme=transparent" /> 
 </div>
 
-<br>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxavier00&layout=compact&theme=transparent" /> 
-</div>
 
 
 <br>
