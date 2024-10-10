@@ -2,8 +2,8 @@
 
 
 <div align="center">  
-  <img  height="150 src="https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent" alt="Caroline Barbosa github stats" /> 
-  <img  height="150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxavier00&layout=compact&theme=transparent" /> 
+  <img  height="150" src="https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent" alt="Caroline Barbosa github stats" /> 
+  <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxavier00&layout=compact&theme=transparent" /> 
 </div>
 
 
