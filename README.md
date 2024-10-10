@@ -12,6 +12,7 @@
 
 <br>
 <br>
+
 ## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br/>
