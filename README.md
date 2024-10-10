@@ -2,6 +2,8 @@
 
 ![Dmxavier GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br/>
