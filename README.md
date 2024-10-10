@@ -7,10 +7,8 @@
 </div>
 
 
-
 <br>
 <br>
-
 
 ## Tecnologias que utilizo no meu dia
 
