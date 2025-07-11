@@ -1,16 +1,22 @@
-## Olá! Eu sou Davi Xavier
+<h1 align="center">Davi Xavier Marins</h1>
 
+<p align="center">
+  <strong>Estudante de Sistemas de Informação</strong> • <em>Futuro profissional de Tecnologia</em> <br>
+  Em busca da minha primeira oportunidade na área de <strong>TI</strong>
+</p>
 
-<div align="center">  
-  <img  height="150" src="https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=transparent" alt="Caroline Barbosa github stats" /> 
-  <img  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxavier00&layout=compact&theme=transparent" /> 
-</div>
+---
 
+### Sobre mim
 
-<br>
-<br>
+🎓 Atualmente cursando *Sistemas de Informação*  
+📍 Localizado no Brasil  
+📊 Me dedicando ao aprendizado de *Java, **Python, **SQL* e *Linux*  
+🚀 Focado em projetos que envolvem dados, soluções práticas e inovação  
 
-## Tecnologias que utilizo no meu dia
+---
+
+### Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -22,4 +28,26 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
+---
 
+### Projetos em Destaque
+
+- 🔗 [*Portfólio Web Pessoal*](https://github.com/CAIO-SANTANA3127/Portifolio) — HTML, CSS e JS com design responsivo
+- 🔗 Projeto com Python e Flask (em construção)
+- 🔗 Dashboard Power BI para análise de dados (em breve)
+
+---
+
+### Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davixaviermarins/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dxavier.nit@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whatxavierr/)
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dmxavier00&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmxavier00&layout=compact&theme=radical" width="300"/>
+</p>
