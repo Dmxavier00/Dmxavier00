@@ -10,8 +10,8 @@
 ### Sobre mim
 
 🎓 Atualmente cursando *Sistemas de Informação*  
-📍 Localizado no Brasil  
-📊 Me dedicando ao aprendizado de *Java, **Python, **SQL* e *Linux*  
+📍 Localizado em Niterói,RJ
+📊 Me dedicando ao aprendizado de *Java*, *Python*, **SQL* e *Linux*  
 🚀 Focado em projetos que envolvem dados, soluções práticas e inovação  
 
 ---
@@ -32,7 +32,7 @@
 
 ### Projetos em Destaque
 
-- 🔗 [*Portfólio Web Pessoal*](https://github.com/CAIO-SANTANA3127/Portifolio) — HTML, CSS e JS com design responsivo
+- 🔗 [(https://github.com/Dmxavier00/Adopet-) — Java, Spring Web e MySQL
 - 🔗 Projeto com Python e Flask (em construção)
 - 🔗 Dashboard Power BI para análise de dados (em breve)
 
