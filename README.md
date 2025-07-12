@@ -33,8 +33,8 @@
 ### Projetos em Destaque
 
 - 🔗 [(https://github.com/Dmxavier00/Adopet-) — Java, Spring Web e MySQL
-- 🔗 Projeto com Python e Flask (em construção)
-- 🔗 Dashboard Power BI para análise de dados (em breve)
+- 🔗 [(https://github.com/Dmxavier00/Screenmatch) — Java, Spring Web e PostgreSQL
+- 🔗 [(https://github.com/Dmxavier00/Voll-Med) — Java, Spring Web e MySQL
 
 ---
 
